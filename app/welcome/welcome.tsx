@@ -107,7 +107,7 @@ const CV: React.FC = () => {
         <div style={styles.contactInfo}>
           <span style={styles.contactSpark}>✉️ nemeth.botond05@gmail.com</span>
           <span style={styles.contactSpark}>📱 +36 30 355 5067</span>
-          <span style={styles.contactSpark}>📍 Szeged</span>
+          <span style={styles.contactSpark}>📍<a href="https://www.google.com/maps/place/Szeged" target="_blank" rel="noopener noreferrer">Szeged</a></span>
           <span style={styles.contactSpark}>🔗 LinkedIn / Facebook</span>
         </div>
       </header>
